@@ -1,0 +1,9 @@
+name: Customitem
+version: '${project.version}'
+main: customitem.main.Customitem
+api-version: 1.18
+commands:
+  item:
+    aliases: 아이템
+    usage: /item
+    description: 아이템 파일을 읽어, 불러옵니다 (Plugins/Customitem/items)

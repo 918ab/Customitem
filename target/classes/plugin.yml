@@ -1,0 +1,6 @@
+name: Customitem
+version: '1.0-SNAPSHOT'
+main: customitem.main.Customitem
+api-version: 1.18
+commands:
+  item:

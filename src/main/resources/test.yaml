@@ -1,0 +1,15 @@
+items:
+  '에메랄드':
+    item : emerald
+    name : &a에메랄드
+    lore:
+      - " "
+      - "&f반짝 빛나는 &a에메랄드"
+      - " "
+    Damage : 5
+    AttackSpeed : 0.2
+    CustomModelData : 3
+    Unbreakable : true
+  '검':
+    item : diamond_sword
+    name : &a멋찐검!!

@@ -1,0 +1,14 @@
+items:
+  '안녕의검':
+    item : stone
+    name : 안녕
+    lore:
+      - "&a1번"
+      - "&b2번"
+    Damage : 10
+    AttackSpeed : 0.01
+    CustomModelData : 10
+    Unbreakable : false
+    UnbreakingDamage : 5
+  '바이':
+    item : diamond_sword
